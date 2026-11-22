@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "message": "Temas personalizados con sheal-builds.json",
+  "version": "1.4.0",
+  "message": "Menu de construcciones con tecla B",
   "files": [
     "mods/sheal-build.jar",
     "mods/sheal-particles.jar",
