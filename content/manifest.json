@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "message": "Menu de construcciones con tecla B",
+  "version": "1.5.0",
+  "message": "Esquemas guia con particulas - no colocan bloques",
   "files": [
     "mods/sheal-build.jar",
     "mods/sheal-particles.jar",
